@@ -6,10 +6,12 @@
 
 ## 自作したロボット
 
-* Raspberry Pi 3B
+*　Raspberry Pi 3B
+*　arduino
 * エンコーダー付けるモーターを使用
 *クローラーを使用
 
 
 
 ## Demo video
+https://youtu.be/lyaqA_CdyN4
